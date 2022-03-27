@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,25 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "Rebel",
+      "dogBreed": "Springer Spaniel ",
+      "id": 3
+    },
+    {
+      "dogName": "Rebel",
+      "dogBreed": "Springer Spaniel ",
+      "id": 4
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 5
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +38,150 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "alex",
+      "email": "alex.davis806@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "alex",
+      "email": "alex.davis806@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "alex",
+      "email": "alex.davis806@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "alex",
+      "email": "alex.davis806@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "alex",
+      "email": "alex.davis806@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "alex",
+      "email": "alex.davis806@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "alex",
+      "email": "alex.davis806@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "alex",
+      "email": "alex.davis806@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "alex",
+      "email": "alex.davis806@gmail.com",
+      "id": 9
+    },
+    {
+      "name": "alex",
+      "email": "alex.davis806@gmail.com",
+      "id": 10
+    },
+    {
+      "name": "alex",
+      "email": "alex.davis806@gmail.com",
+      "id": 11
+    },
+    {
+      "name": "alex",
+      "email": "alex.davis806@gmail.com",
+      "id": 12
+    },
+    {
+      "name": "alex",
+      "email": "alex.davis806@gmail.com",
+      "id": 13
+    },
+    {
+      "name": "alex",
+      "email": "alex.davis806@gmail.com",
+      "id": 14
+    },
+    {
+      "name": "alex",
+      "email": "alex.davis806@gmail.com",
+      "id": 15
+    },
+    {
+      "name": "alex",
+      "email": "alex.davis806@gmail.com",
+      "id": 16
+    },
+    {
+      "name": "alex",
+      "email": "alex.davis806@gmail.com",
+      "id": 17
+    },
+    {
+      "name": "plop",
+      "email": "plop@plop.com",
+      "id": 18
+    },
+    {
+      "name": "plop",
+      "email": "ploppppo",
+      "id": 19
+    },
+    {
+      "name": "alex",
+      "email": "plop",
+      "id": 20
+    },
+    {
+      "name": "a",
+      "email": "b",
+      "id": 21
+    },
+    {
+      "name": "a",
+      "email": "b",
+      "id": 22
+    },
+    {
+      "name": "a",
+      "email": "b",
+      "id": 23
+    },
+    {
+      "id": 24
+    },
+    {
+      "id": 25
+    },
+    {
+      "id": 26
+    },
+    {
+      "id": 27
+    },
+    {
+      "name": "a",
+      "email": "b",
+      "id": 28
+    },
+    {
+      "name": "a",
+      "email": "b",
+      "id": 29
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
